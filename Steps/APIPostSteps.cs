@@ -37,7 +37,5 @@ namespace API_testing.Steps
             Console.WriteLine(response.StatusCode.ToString() == "Created");
             Console.WriteLine(response.Content.ToString());
         }
-
-
     }
 }

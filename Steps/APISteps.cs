@@ -76,7 +76,6 @@ namespace API_testing.Steps
             string username = user.name;
             Assert.That(response.Content.Contains(username));
         }
-
     }
 
     internal class details

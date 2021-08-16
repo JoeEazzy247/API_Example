@@ -30,3 +30,7 @@ C:\Users\joseph.ekeleme\source\repos\API testing\obj\Debug\API testing.pdb
 C:\Users\joseph.ekeleme\source\repos\API testing\bin\Debug\FluentAssertions.dll
 C:\Users\joseph.ekeleme\source\repos\API testing\bin\Debug\FluentAssertions.pdb
 C:\Users\joseph.ekeleme\source\repos\API testing\bin\Debug\FluentAssertions.xml
+C:\Users\joeea\Source\Repos\JoeEazzy247\API_Example\obj\Debug\API testing.csprojAssemblyReference.cache
+C:\Users\joeea\Source\Repos\JoeEazzy247\API_Example\obj\Debug\API testing.csproj.CoreCompileInputs.cache
+C:\Users\joeea\Source\Repos\JoeEazzy247\API_Example\obj\Debug\API testing.dll
+C:\Users\joeea\Source\Repos\JoeEazzy247\API_Example\obj\Debug\API testing.pdb
